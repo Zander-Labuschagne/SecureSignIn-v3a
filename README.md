@@ -11,10 +11,10 @@ Benifits:
 Feel free to criticize or comment.
 There are Android, iPhone, iPad and macOS applications available as well, however they are not always up to date and I have left some of them discontinued/incomplete. I work on these projects in my free time only so don't expect regular updates from me.
 
-macOS(Swift) version: TBA
-Android version: TBA
-iOS(iPhone) version: TBA
-iOS(iPad) version: TBA
+macOS(Swift) version: TBA__
+Android version: TBA__
+iOS(iPhone) version: TBA__
+iOS(iPad) version: TBA__
 
 E-Mail: ZANDER.LABUSCHAGNE@PROTONMAIL.CH
 
