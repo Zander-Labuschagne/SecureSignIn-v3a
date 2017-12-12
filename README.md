@@ -1,5 +1,5 @@
 # Secure-Sign-In v3a
-This is an application I have created in an attempt to improve my online account security. The _a_ in the version code states that this is the CLI(Command Line Interface) version where _b_ would be the GUI(Graphical User Interface). Find the new release at _TBA_.
+This is a java CLI application I have created in an attempt to improve my online account security. The _a_ in the version code states that this is the CLI(Command Line Interface) version where _b_ would be the GUI(Graphical User Interface). Find the new release(C++ CLI application) at https://github.com/Zander-Labuschagne/Secure-Sign-In-v4a
 
 Benifits:
   - Remember one password for all sites, but all sites have different passwords.
@@ -25,7 +25,7 @@ Copyright (C) 2017 Zander Labuschagne. This program is free software: you can re
 
 How to install:
   1. Oracle Java Runtime Environment is required to run the application, OpenJDK should work but was never tested.
-  2. Either run the SecureSignIn-3.4.jar file on any operating system(double click the file or ``java -jar SecureSignIn-3.4.jar`` in command line) or run the install.sh file after extracting the zip file to install the application on Linux systems with the following command: ``sudo sh install.sh`` which should add a ``ssi`` command that you can execute in a terminal session.
+  2. Either run the SecureSignIn-3.4a.jar file on any operating system(double click the file or ``java -jar SecureSignIn-3.4a.jar`` in command line) or run the install.sh file after extracting the zip file to install the application on Linux systems with the following command: ``sudo sh install.sh`` which should add a ``ssi`` command that you can execute in a terminal session.
   3. On some Linux systems it's necessary to run ``sudo chmod +x install.sh`` before installation.
 
 How to use application:
