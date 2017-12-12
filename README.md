@@ -27,6 +27,8 @@ How to install:
   1. Oracle Java Runtime Environment is required to run the application, OpenJDK should work but was never tested.
   2. Either run the SecureSignIn-3.4a.jar file on any operating system(double click the file or ``java -jar SecureSignIn-3.4a.jar`` in command line) or run the install.sh file after extracting the zip file to install the application on Linux systems with the following command: ``sudo sh install.sh`` which should add a ``ssi`` command that you can execute in a terminal session.
   3. On some Linux systems it's necessary to run ``sudo chmod +x install.sh`` before installation.
+  
+  (Feel free to create Windows or macOS versions as I will not make them myself)
 
 How to use application:
   1. Enter a password you will remember at the password prompt, preferably a strong and complicated password because this will influence the complexity of the resulting password.
