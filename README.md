@@ -38,3 +38,15 @@ How to use application:
     3.2\. Enter ``p`` to preview the password if you need to type it over manually.
 4. Some websites have limitations on the length of the passwords... To use the compact variation of the password enter ``s`` or ``l`` otherwise
 5. To exit enter ``q``.
+
+<ul>
+  <li>1. First Item</li>
+  <li>2. Second Item
+    <ul>
+    <li>2.1 Second Item Sub Item 1 </li>
+    <li>2.2 Second Item Sub Item 2</li>
+    <li>2.3 Second Item Sub Item 3</li>
+    </ul>
+  </li>
+  <li>3 Third Item </li>
+</ul>
