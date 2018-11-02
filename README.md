@@ -31,10 +31,10 @@ How to install:
   (Feel free to create a Windows version for the installer as I will not make one myself)
 
 How to use application:
-  1. Enter a password you will remember at the password prompt, preferably a strong and complicated password because this will influence the complexity of the resulting password.
-  2. Enter a key, such as google, facebook or whatever at the next prompt.
-  3. Choose between 3.1. and 3.2.:
-        3.1. Enter ``c`` to copy the password to memory, caution this will only last for 8 seconds until the password is cleared from memory.
-        3.2. Enter ``p`` to preview the password if you need to type it over manually.
-  4. Some websites have limitations on the length of the passwords... To use the compact variation of the password enter ``s`` or ``l`` otherwise
-  5. To exit enter ``q``.
+        1. Enter a password you will remember at the password prompt, preferably a strong and complicated password because this will influence the complexity of the resulting password.
+        2. Enter a key, such as google, facebook or whatever at the next prompt.
+        3. Choose between 3.1. and 3.2.:
+                3.1. Enter ``c`` to copy the password to memory, caution this will only last for 8 seconds until the password is cleared from memory.
+                3.2. Enter ``p`` to preview the password if you need to type it over manually.
+        4. Some websites have limitations on the length of the passwords... To use the compact variation of the password enter ``s`` or ``l`` otherwise
+        5. To exit enter ``q``.
