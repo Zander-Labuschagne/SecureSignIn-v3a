@@ -1,27 +1,16 @@
+package cryogen;
+
 import java.io.Console; //Input from console
 import java.util.LinkedList; //Linked lists
 
 /**
  * @author Zander Labuschagne
  * E-Mail: <zander.labuschagne@protonmail.ch>
+ * Application used to encrypt passwords to complex text for enhanced account security and reducing effort for user
  */
 
 public class SecureSignIn
 {
-//        //Instance Variables
-//        private char[] plainPassword;
-//        private char[] key;
-//        private char[] cipherPassword;
-//        private Stage currentStage;
-//
-//        //Default Constructor
-//        public SecureSignIn()
-//        {
-//                plainPassword = null;
-//                key = null;
-//                cipherPassword = null;
-//        }
-
 	/**
 	 * Method to encrypt the password
 	 * Based on Viginere's Cipher Algorithm, modified by Zander
