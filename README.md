@@ -35,6 +35,6 @@ How to use application:
 2. Enter a key, such as google, facebook or whatever at the next prompt.
 3. Choose between one of the two options below:
     * Enter ``c`` to copy the password to memory, caution this will only last for 8 seconds until the password is cleared from memory.
-    * Enter ``p`` to preview the password if you need to type it over manually.
+    * Enter ``v`` to view the password if you need to type it over manually.
 4. Some websites have limitations on the length of the passwords... To use the compact variation of the password enter ``s``, or ``l`` otherwise.
 5. To exit enter ``q``.
