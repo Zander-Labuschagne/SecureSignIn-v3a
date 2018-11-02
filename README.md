@@ -25,10 +25,10 @@ Copyright (C) 2017 Zander Labuschagne. This program is free software: you can re
 
 How to install:
   1. Oracle Java Runtime Environment is required to run the application, OpenJDK should work but was never tested.
-  2. Either run the Main.class file on any operating system(execute ``java Main.class`` in console) found in the bin directory, or run the install.sh file after extracting the zip file to install the application on Linux or MacOS systems with the following command: ``sudo sh install.sh`` which should add a ``ssi`` command that you can execute in a terminal session.  (Be sure to extract the appropraite file for your system, i.e. MacOS or Linux)
+  2. Either run the SecureSignIn-3a.jar file on any operating system(execute ``java -jar SecureSignIn-3a.jar`` in console) found in the ``bin`` directory, or run the ``install.sh`` file after extracting the zip file to install the application on Linux or MacOS systems with the following command: ``sudo sh install.sh`` which should add a ``ssi`` command that you can execute in a terminal session.  (Be sure to extract the appropraite file for your system, i.e. macOS or Linux)
   3. On some Linux systems it's necessary to run ``sudo chmod +x install.sh`` before installation.
   
-  (Feel free to create a Windows version as I will not make one myself)
+  (Feel free to create a Windows version for the installer as I will not make one myself)
 
 How to use application:
   1. Enter a password you will remember at the password prompt, preferably a strong and complicated password because this will influence the complexity of the resulting password.
