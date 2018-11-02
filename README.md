@@ -1,5 +1,5 @@
 # Secure-Sign-In v3a
-This is a java CLI application I have created in an attempt to improve my online account security. The _a_ in the version code states that this is the CLI(Command Line Interface) version where _b_ would be the GUI(Graphical User Interface). Find the new release(C++ CLI application) at https://gitlab.com/Zander-Labuschagne/SecureSignIn-v4a or https://github.com/Zander-Labuschagne/SecureSignIn-v4a
+This is a Java CLI application I have created in an attempt to improve my online account security. The _a_ in the version code states that this is the CLI(Command Line Interface) version where _b_ would be the GUI(Graphical User Interface). Find the new release(C++ CLI application) at https://gitlab.com/Zander-Labuschagne/SecureSignIn-v4a or https://github.com/Zander-Labuschagne/SecureSignIn-v4a
 
 Benifits:
   - Remember one password for all sites, but all sites have different passwords.
