@@ -40,13 +40,14 @@ How to use application:
 5. To exit enter ``q``.
 
 <ul>
-  <li>1. First Item</li>
-  <li>2. Second Item
+  <li>1. Enter a password you will remember at the password prompt, preferably a strong and complicated password because this will influence the complexity of the resulting password.</li>
+  <li>2. Enter a key, such as google, facebook or whatever at the next prompt.</li>
+  <li>3. Choose between 3.1. and 3.2.:
     <ul>
-    <li>2.1 Second Item Sub Item 1 </li>
-    <li>2.2 Second Item Sub Item 2</li>
-    <li>2.3 Second Item Sub Item 3</li>
+        <li>3.1. Enter ``c`` to copy the password to memory, caution this will only last for 8 seconds until the password is cleared from memory.
+        <li>3.2\. Enter ``p`` to preview the password if you need to type it over manually.
     </ul>
   </li>
-  <li>3 Third Item </li>
+  <li>4. Some websites have limitations on the length of the passwords... To use the compact variation of the password enter ``s`` or ``l`` otherwise. </li>
+  <li>5. To exit enter ``q``.</li>
 </ul>
