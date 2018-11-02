@@ -1,10 +1,14 @@
+package cryogen;
+
 import java.io.Console; //Input from console, espesially password input
 import java.awt.Toolkit; //Copy function
 import java.awt.datatransfer.Clipboard; //Copy function
 import java.awt.datatransfer.StringSelection; //Copy function
 
 /**
- * @author Zander Labuschagne <zander.labuschagne@protonmail.ch>
+ * @author Zander Labuschagne
+ * E-Mail: <zander.labuschagne@protonmail.ch>
+ * Main class for the Secure Sign In v3 CLI application
 **/
 
 public class Main
