@@ -1,4 +1,8 @@
 # Compiled class file
+<<<<<<< HEAD
+=======
+#*.class
+>>>>>>> c3f05e182a760938d9271c5b834790d31b092b10
 
 # Log file
 *.log
@@ -10,6 +14,10 @@
 .mtj.tmp/
 
 # Package Files #
+<<<<<<< HEAD
+=======
+#*.jar
+>>>>>>> c3f05e182a760938d9271c5b834790d31b092b10
 *.war
 *.ear
 
@@ -41,4 +49,8 @@ Icon
 .AppleDesktop
 Network Trash Folder
 Temporary Items
+<<<<<<< HEAD
 .apdisk
+=======
+.apdisk
+>>>>>>> c3f05e182a760938d9271c5b834790d31b092b10
