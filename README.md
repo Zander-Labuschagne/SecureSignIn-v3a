@@ -1,4 +1,4 @@
-# Secure-Sign-In v3a
+# Secure-Sign-In v3a **Legacy**
 This is a Java CLI application I have created in an attempt to improve my online account security. The _a_ in the version code states that this is the CLI(Command Line Interface) version where _b_ would be the GUI(Graphical User Interface). Find the new release(C++ CLI application) at https://gitlab.com/Zander-Labuschagne/SecureSignIn-v4a or https://github.com/Zander-Labuschagne/SecureSignIn-v4a
 
 Benifits:
@@ -25,7 +25,7 @@ Copyright (C) 2017 Zander Labuschagne. This program is free software: you can re
 
 How to install:
   1. Oracle Java Runtime Environment is required to run the application, OpenJDK should work but was never tested.
-  2. Either run the SecureSignIn-3a.jar file on any operating system(execute ``java -jar SecureSignIn-3a.jar`` in console) found in the ``bin`` directory, or run the ``install.sh`` file after extracting the zip file to install the application on Linux or MacOS systems with the following command: ``sudo sh install.sh`` which should add a ``ssi`` command that you can execute in a terminal session.  (Be sure to extract the appropraite file for your system, i.e. macOS or Linux)
+  2. Either run the SecureSignIn-3a.jar file on any operating system(execute ``java -jar SecureSignIn-3a.jar`` in terminal) found in the ``bin`` directory, or run the ``install.sh`` file after extracting the zip file to install the application on Linux or MacOS systems with the following command: ``sudo sh install.sh`` which should add a ``ssi`` command that you can execute in a terminal session.  (Be sure to extract the appropraite file for your system, i.e. MacOS or Linux)
   3. On some Linux systems it's necessary to run ``sudo chmod +x install.sh`` before installation.
   
   (Feel free to create a Windows version for the installer as I will not make one myself)
@@ -37,4 +37,4 @@ How to use application:
     * Enter ``c`` to copy the password to memory, caution this will only last for 8 seconds until the password is cleared from memory.
     * Enter ``v`` to view the password if you need to type it over manually.
 4. Some websites have limitations on the length of the passwords... To use the compact variation of the password enter ``s``, or ``l`` otherwise.
-5. To exit enter ``q``.
+5. To exit enter ``q``. The application should self terminate after the 8 seconds has elapsed or immediately if chosen to view the password, if not manually exit using ``CTRL + C``.
