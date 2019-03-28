@@ -1,7 +1,7 @@
 # Secure Sign In v3a *Legacy*
 This is a Java CLI application I have created in an attempt to improve my online account security. The _a_ in the version code states that this is the CLI(Command Line Interface) version where _b_ would be the GUI(Graphical User Interface). Find the new release(C++ CLI application) at https://gitlab.com/Zander-Labuschagne/SecureSignIn-v4a or https://github.com/Zander-Labuschagne/SecureSignIn-v4a
 
-Benifits:
+#### Benifits:
   - Remember one password for all sites, but all sites have different passwords.
   - Don't know the actual password which is entered in the password box on the website.
   - Provides a very strong, long and complex password.
@@ -24,14 +24,14 @@ E-Mail: zander.labuschagne@protonmail.ch
 
 Copyright (C) 2017 Zander Labuschagne. This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License version 3 as published by the Free Software Foundation.
 
-How to install:
+### How to install:
   1. Oracle Java Runtime Environment is required to run the application, OpenJDK should work but was never tested.
   2. Either run the SecureSignIn-3a.jar file on any operating system(execute ``java -jar SecureSignIn-3a.jar`` in terminal) found in the ``bin`` directory, or run the ``install.sh`` file after extracting the zip file to install the application on Linux or MacOS systems with the following command: ``sudo sh install.sh`` which should add a ``ssi`` command that you can execute in a terminal session.  (Be sure to extract the appropraite file for your system, i.e. MacOS or Linux)
   3. On some Linux systems it's necessary to run ``sudo chmod +x install.sh`` before installation.
   
-  (Feel free to create a Windows version for the installer as I will not make one myself)
+  *(Feel free to create a Windows version for the installer as I will not make one myself)*
 
-How to use application:
+### How to use application:
 1. Enter a password you will remember at the password prompt, preferably a strong and complicated password because this will influence the complexity of the resulting password.
 2. Enter a key, such as google, facebook or whatever at the next prompt.
 3. Choose between one of the two options below:
